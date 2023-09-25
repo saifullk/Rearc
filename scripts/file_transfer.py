@@ -17,8 +17,8 @@ headers = {
 
 # Define the Amazon S3 bucket and AWS credentials
 bucket_name = "khalid-rearc"
-aws_access_key = "AKIAZLFUDZDJUDV6UF3K"
-aws_secret_key = "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"
+aws_access_key = "KKKKKKKKKKKKKK"
+aws_secret_key = "KKKKKKKKKKKKKK"
 aws_region = "us-east-1"
 
 # Initialize the S3 client
