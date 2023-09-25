@@ -17,10 +17,9 @@ Best Year for Each Series
 8028  PRS88003201  2022   46.600
 8057  PRS88003202  2022   39.700
 8086  PRS88003203  2022  634.534
-
-
-
 [282 rows x 3 columns]
+
+
 Report for series_id = PRS30006032 and period = Q01
       series_id  year period  value   Population
 0   PRS30006032  1995    Q01    0.0          NaN
