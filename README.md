@@ -2,11 +2,11 @@
 Rearc Project
 
 Part 1: AWS S3 & Sourcing Datasets
-1. Link to S3 Bucket : https://khalid-rearc.s3.amazonaws.com/
+1. Link to S3 Bucket : https://khalid-rearc.s3.amazonaws.com/  - Please note the link only allows listing of objects. Let me know if you need to download these file
 2. Lambda Version of the Script : https://github.com/saifullk/Rearc/blob/main/lambda_code/copy_files_lambda.py
+3. Script Version : https://github.com/saifullk/Rearc/blob/main/scripts/file_transfer.py
    
 Part 2: APIs
-
 1. Lambda Version : https://github.com/saifullk/Rearc/blob/main/lambda_code/api_call_lambda.py
 2. Script Version : https://github.com/saifullk/Rearc/blob/main/scripts/rearc_part2.py
 
