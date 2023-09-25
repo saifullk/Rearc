@@ -11,8 +11,9 @@ Part 2: APIs
 2. Script Version : https://github.com/saifullk/Rearc/blob/main/scripts/rearc_part2.py
 
 Part 3: Data Analytics
-1. Source code : https://github.com/saifullk/Rearc/blob/main/notebook/rearc3.ipynb
-2. Results : https://github.com/saifullk/Rearc/blob/main/notebook/analysis_results.txt
+1. Source code (ipynb) : https://github.com/saifullk/Rearc/blob/main/notebook/rearc3.ipynb
+2. Source code for lambda implementation : https://github.com/saifullk/Rearc/blob/main/lambda_code/process_data_lambda.py
+3. Results : https://github.com/saifullk/Rearc/blob/main/notebook/analysis_results.txt
 
 Part 4: Infrastructure as Code & Data Pipeline with Terraform
 1. Terraform Main : https://github.com/saifullk/Rearc/blob/main/main.tf
