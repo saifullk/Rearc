@@ -1,0 +1,747 @@
+[
+  {
+    "id": 1,
+    "breed": "affenpinscher",
+    "image_url": "https://images.dog.ceo/breeds/affenpinscher/n02110627_2748.jpg"
+  },
+  {
+    "id": 2,
+    "breed": "african",
+    "image_url": "https://images.dog.ceo/breeds/african/n02116738_8512.jpg"
+  },
+  {
+    "id": 3,
+    "breed": "airedale",
+    "image_url": "https://images.dog.ceo/breeds/airedale/n02096051_5712.jpg"
+  },
+  {
+    "id": 4,
+    "breed": "akita",
+    "image_url": "https://images.dog.ceo/breeds/akita/512px-Ainu-Dog.jpg"
+  },
+  {
+    "id": 5,
+    "breed": "appenzeller",
+    "image_url": "https://images.dog.ceo/breeds/appenzeller/n02107908_7700.jpg"
+  },
+  {
+    "id": 6,
+    "breed": "shepherd australian",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 7,
+    "breed": "basenji",
+    "image_url": "https://images.dog.ceo/breeds/basenji/n02110806_5051.jpg"
+  },
+  {
+    "id": 8,
+    "breed": "beagle",
+    "image_url": "https://images.dog.ceo/breeds/beagle/n02088364_6866.jpg"
+  },
+  {
+    "id": 9,
+    "breed": "bluetick",
+    "image_url": "https://images.dog.ceo/breeds/bluetick/n02088632_1126.jpg"
+  },
+  {
+    "id": 10,
+    "breed": "borzoi",
+    "image_url": "https://images.dog.ceo/breeds/borzoi/n02090622_431.jpg"
+  },
+  {
+    "id": 11,
+    "breed": "bouvier",
+    "image_url": "https://images.dog.ceo/breeds/bouvier/n02106382_1016.jpg"
+  },
+  {
+    "id": 12,
+    "breed": "boxer",
+    "image_url": "https://images.dog.ceo/breeds/boxer/n02108089_3669.jpg"
+  },
+  {
+    "id": 13,
+    "breed": "brabancon",
+    "image_url": "https://images.dog.ceo/breeds/brabancon/n02112706_1983.jpg"
+  },
+  {
+    "id": 14,
+    "breed": "briard",
+    "image_url": "https://images.dog.ceo/breeds/briard/n02105251_9020.jpg"
+  },
+  {
+    "id": 15,
+    "breed": "norwegian buhund",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 16,
+    "breed": "boston bulldog",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 17,
+    "breed": "english bulldog",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 18,
+    "breed": "french bulldog",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 19,
+    "breed": "staffordshire bullterrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 20,
+    "breed": "australian cattledog",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 21,
+    "breed": "cavapoo",
+    "image_url": "https://images.dog.ceo/breeds/cavapoo/lulu2.jpg"
+  },
+  {
+    "id": 22,
+    "breed": "chihuahua",
+    "image_url": "https://images.dog.ceo/breeds/chihuahua/n02085620_368.jpg"
+  },
+  {
+    "id": 23,
+    "breed": "chow",
+    "image_url": "https://images.dog.ceo/breeds/chow/n02112137_17437.jpg"
+  },
+  {
+    "id": 24,
+    "breed": "clumber",
+    "image_url": "https://images.dog.ceo/breeds/clumber/n02101556_984.jpg"
+  },
+  {
+    "id": 25,
+    "breed": "cockapoo",
+    "image_url": "https://images.dog.ceo/breeds/cockapoo/big-eye-ginger.jpg"
+  },
+  {
+    "id": 26,
+    "breed": "border collie",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 27,
+    "breed": "coonhound",
+    "image_url": "https://images.dog.ceo/breeds/coonhound/n02089078_2728.jpg"
+  },
+  {
+    "id": 28,
+    "breed": "cardigan corgi",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 29,
+    "breed": "cotondetulear",
+    "image_url": "https://images.dog.ceo/breeds/cotondetulear/100_2397.jpg"
+  },
+  {
+    "id": 30,
+    "breed": "dachshund",
+    "image_url": "https://images.dog.ceo/breeds/dachshund/dog-1018408_640.jpg"
+  },
+  {
+    "id": 31,
+    "breed": "dalmatian",
+    "image_url": "https://images.dog.ceo/breeds/dalmatian/cooper2.jpg"
+  },
+  {
+    "id": 32,
+    "breed": "great dane",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 33,
+    "breed": "scottish deerhound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 34,
+    "breed": "dhole",
+    "image_url": "https://images.dog.ceo/breeds/dhole/n02115913_5469.jpg"
+  },
+  {
+    "id": 35,
+    "breed": "dingo",
+    "image_url": "https://images.dog.ceo/breeds/dingo/n02115641_2764.jpg"
+  },
+  {
+    "id": 36,
+    "breed": "doberman",
+    "image_url": "https://images.dog.ceo/breeds/doberman/n02107142_534.jpg"
+  },
+  {
+    "id": 37,
+    "breed": "norwegian elkhound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 38,
+    "breed": "entlebucher",
+    "image_url": "https://images.dog.ceo/breeds/entlebucher/n02108000_841.jpg"
+  },
+  {
+    "id": 39,
+    "breed": "eskimo",
+    "image_url": "https://images.dog.ceo/breeds/eskimo/n02109961_977.jpg"
+  },
+  {
+    "id": 40,
+    "breed": "lapphund finnish",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 41,
+    "breed": "bichon frise",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 42,
+    "breed": "germanshepherd",
+    "image_url": "https://images.dog.ceo/breeds/germanshepherd/n02106662_5169.jpg"
+  },
+  {
+    "id": 43,
+    "breed": "italian greyhound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 44,
+    "breed": "groenendael",
+    "image_url": "https://images.dog.ceo/breeds/groenendael/n02105056_3471.jpg"
+  },
+  {
+    "id": 45,
+    "breed": "havanese",
+    "image_url": "https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191103202017556_COVER.jpg"
+  },
+  {
+    "id": 46,
+    "breed": "afghan hound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 47,
+    "breed": "basset hound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 48,
+    "breed": "blood hound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 49,
+    "breed": "english hound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 50,
+    "breed": "ibizan hound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 51,
+    "breed": "plott hound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 52,
+    "breed": "walker hound",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 53,
+    "breed": "husky",
+    "image_url": "https://images.dog.ceo/breeds/husky/n02110185_4294.jpg"
+  },
+  {
+    "id": 54,
+    "breed": "keeshond",
+    "image_url": "https://images.dog.ceo/breeds/keeshond/n02112350_7733.jpg"
+  },
+  {
+    "id": 55,
+    "breed": "kelpie",
+    "image_url": "https://images.dog.ceo/breeds/kelpie/n02105412_1078.jpg"
+  },
+  {
+    "id": 56,
+    "breed": "komondor",
+    "image_url": "https://images.dog.ceo/breeds/komondor/n02105505_3050.jpg"
+  },
+  {
+    "id": 57,
+    "breed": "kuvasz",
+    "image_url": "https://images.dog.ceo/breeds/kuvasz/n02104029_2500.jpg"
+  },
+  {
+    "id": 58,
+    "breed": "labradoodle",
+    "image_url": "https://images.dog.ceo/breeds/labradoodle/Cali.jpg"
+  },
+  {
+    "id": 59,
+    "breed": "labrador",
+    "image_url": "https://images.dog.ceo/breeds/labrador/n02099712_365.jpg"
+  },
+  {
+    "id": 60,
+    "breed": "leonberg",
+    "image_url": "https://images.dog.ceo/breeds/leonberg/n02111129_2119.jpg"
+  },
+  {
+    "id": 61,
+    "breed": "lhasa",
+    "image_url": "https://images.dog.ceo/breeds/lhasa/n02098413_5474.jpg"
+  },
+  {
+    "id": 62,
+    "breed": "malamute",
+    "image_url": "https://images.dog.ceo/breeds/malamute/n02110063_9360.jpg"
+  },
+  {
+    "id": 63,
+    "breed": "malinois",
+    "image_url": "https://images.dog.ceo/breeds/malinois/n02105162_824.jpg"
+  },
+  {
+    "id": 64,
+    "breed": "maltese",
+    "image_url": "https://images.dog.ceo/breeds/maltese/n02085936_8867.jpg"
+  },
+  {
+    "id": 65,
+    "breed": "bull mastiff",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 66,
+    "breed": "english mastiff",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 67,
+    "breed": "tibetan mastiff",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 68,
+    "breed": "mexicanhairless",
+    "image_url": "https://images.dog.ceo/breeds/mexicanhairless/n02113978_1595.jpg"
+  },
+  {
+    "id": 69,
+    "breed": "mix",
+    "image_url": "https://images.dog.ceo/breeds/mix/nelinka_01.jpg"
+  },
+  {
+    "id": 70,
+    "breed": "bernese mountain",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 71,
+    "breed": "swiss mountain",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 72,
+    "breed": "newfoundland",
+    "image_url": "https://images.dog.ceo/breeds/newfoundland/n02111277_4710.jpg"
+  },
+  {
+    "id": 73,
+    "breed": "otterhound",
+    "image_url": "https://images.dog.ceo/breeds/otterhound/n02091635_390.jpg"
+  },
+  {
+    "id": 74,
+    "breed": "caucasian ovcharka",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 75,
+    "breed": "papillon",
+    "image_url": "https://images.dog.ceo/breeds/papillon/n02086910_4542.jpg"
+  },
+  {
+    "id": 76,
+    "breed": "pekinese",
+    "image_url": "https://images.dog.ceo/breeds/pekinese/n02086079_5106.jpg"
+  },
+  {
+    "id": 77,
+    "breed": "pembroke",
+    "image_url": "https://images.dog.ceo/breeds/pembroke/n02113023_4881.jpg"
+  },
+  {
+    "id": 78,
+    "breed": "miniature pinscher",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 79,
+    "breed": "pitbull",
+    "image_url": "https://images.dog.ceo/breeds/pitbull/dog-3981540_1280.jpg"
+  },
+  {
+    "id": 80,
+    "breed": "german pointer",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 81,
+    "breed": "germanlonghair pointer",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 82,
+    "breed": "pomeranian",
+    "image_url": "https://images.dog.ceo/breeds/pomeranian/n02112018_5367.jpg"
+  },
+  {
+    "id": 83,
+    "breed": "medium poodle",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 84,
+    "breed": "miniature poodle",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 85,
+    "breed": "standard poodle",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 86,
+    "breed": "toy poodle",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 87,
+    "breed": "pug",
+    "image_url": "https://images.dog.ceo/breeds/puggle/IMG_095543.jpg"
+  },
+  {
+    "id": 88,
+    "breed": "puggle",
+    "image_url": "https://images.dog.ceo/breeds/puggle/IMG_074532.jpg"
+  },
+  {
+    "id": 89,
+    "breed": "pyrenees",
+    "image_url": "https://images.dog.ceo/breeds/pyrenees/n02111500_3513.jpg"
+  },
+  {
+    "id": 90,
+    "breed": "redbone",
+    "image_url": "https://images.dog.ceo/breeds/redbone/n02090379_980.jpg"
+  },
+  {
+    "id": 91,
+    "breed": "chesapeake retriever",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 92,
+    "breed": "curly retriever",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 93,
+    "breed": "flatcoated retriever",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 94,
+    "breed": "golden retriever",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 95,
+    "breed": "rhodesian ridgeback",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 96,
+    "breed": "rottweiler",
+    "image_url": "https://images.dog.ceo/breeds/rottweiler/n02106550_5311.jpg"
+  },
+  {
+    "id": 97,
+    "breed": "saluki",
+    "image_url": "https://images.dog.ceo/breeds/saluki/n02091831_3594.jpg"
+  },
+  {
+    "id": 98,
+    "breed": "samoyed",
+    "image_url": "https://images.dog.ceo/breeds/samoyed/n02111889_4634.jpg"
+  },
+  {
+    "id": 99,
+    "breed": "schipperke",
+    "image_url": "https://images.dog.ceo/breeds/schipperke/n02104365_6131.jpg"
+  },
+  {
+    "id": 100,
+    "breed": "giant schnauzer",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 101,
+    "breed": "miniature schnauzer",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 102,
+    "breed": "italian segugio",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 103,
+    "breed": "english setter",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 104,
+    "breed": "gordon setter",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 105,
+    "breed": "irish setter",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 106,
+    "breed": "sharpei",
+    "image_url": "https://images.dog.ceo/breeds/sharpei/noel.jpg"
+  },
+  {
+    "id": 107,
+    "breed": "english sheepdog",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 108,
+    "breed": "shetland sheepdog",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 109,
+    "breed": "shiba",
+    "image_url": "https://images.dog.ceo/breeds/shiba/shiba-6.jpg"
+  },
+  {
+    "id": 110,
+    "breed": "shihtzu",
+    "image_url": "https://images.dog.ceo/breeds/shihtzu/n02086240_1205.jpg"
+  },
+  {
+    "id": 111,
+    "breed": "blenheim spaniel",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 112,
+    "breed": "brittany spaniel",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 113,
+    "breed": "cocker spaniel",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 114,
+    "breed": "irish spaniel",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 115,
+    "breed": "japanese spaniel",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 116,
+    "breed": "sussex spaniel",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 117,
+    "breed": "welsh spaniel",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 118,
+    "breed": "japanese spitz",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 119,
+    "breed": "english springer",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 120,
+    "breed": "stbernard",
+    "image_url": "https://images.dog.ceo/breeds/stbernard/n02109525_17140.jpg"
+  },
+  {
+    "id": 121,
+    "breed": "american terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 122,
+    "breed": "australian terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 123,
+    "breed": "bedlington terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 124,
+    "breed": "border terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 125,
+    "breed": "cairn terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 126,
+    "breed": "dandie terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 127,
+    "breed": "fox terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 128,
+    "breed": "irish terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 129,
+    "breed": "kerryblue terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 130,
+    "breed": "lakeland terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 131,
+    "breed": "norfolk terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 132,
+    "breed": "norwich terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 133,
+    "breed": "patterdale terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 134,
+    "breed": "russell terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 135,
+    "breed": "scottish terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 136,
+    "breed": "sealyham terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 137,
+    "breed": "silky terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 138,
+    "breed": "tibetan terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 139,
+    "breed": "toy terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 140,
+    "breed": "welsh terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 141,
+    "breed": "westhighland terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 142,
+    "breed": "wheaten terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 143,
+    "breed": "yorkshire terrier",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 144,
+    "breed": "tervuren",
+    "image_url": "https://images.dog.ceo/breeds/tervuren/yoda_in_garden.jpg"
+  },
+  {
+    "id": 145,
+    "breed": "vizsla",
+    "image_url": "https://images.dog.ceo/breeds/vizsla/n02100583_2736.jpg"
+  },
+  {
+    "id": 146,
+    "breed": "spanish waterdog",
+    "image_url": "Breed not found (master breed does not exist)"
+  },
+  {
+    "id": 147,
+    "breed": "weimaraner",
+    "image_url": "https://images.dog.ceo/breeds/weimaraner/n02092339_439.jpg"
+  },
+  {
+    "id": 148,
+    "breed": "whippet",
+    "image_url": "https://images.dog.ceo/breeds/whippet/n02091134_3472.jpg"
+  },
+  {
+    "id": 149,
+    "breed": "irish wolfhound",
+    "image_url": "Breed not found (master breed does not exist)"
+  }
+]
