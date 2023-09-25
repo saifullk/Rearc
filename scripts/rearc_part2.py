@@ -9,8 +9,8 @@ api_url = "https://datausa.io/api/data?drilldowns=Nation&measures=Population"
 # Define your AWS S3 bucket and object key
 s3_bucket_name = "khalid-rearc2"
 s3_object_key = "population.json"
-aws_access_key = "AKIAZLFUDZDJUDV6UF3K"
-aws_secret_key = "TN7nFhEUZYjJM1Kn5zU8Ebpr0fyAoIvqsYoXBHbP"
+aws_access_key = "KKKKKKKKKKKKKK"
+aws_secret_key = "KKKKKKKKKKKKKK"
 aws_region = "us-east-1"
 
 try:
