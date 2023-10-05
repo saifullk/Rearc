@@ -7,7 +7,7 @@ provider "aws" {
 
 # S3 Bucket Definitions
 # Destination Bucket for files from BLS 
-resource "aws_s3_bucket" "khalid-rearc_bls" {
+resource "aws_s3_bucket" "khalid-rearc-bls" {
   bucket = "khalid-rearc-bls"
 }
 # Destination Bucket for API Call to save JSON - had to change it queue for notification queue distinction
